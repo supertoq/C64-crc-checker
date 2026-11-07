@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <g>
+    <title>Layer 1</title>
+    <rect id="svg_9" height="75.328" width="20" y="144.615" x="105.374" stroke="#000" fill="#ffffff" style="stroke-width: 3px;"/>
+    <rect id="svg_10" height="75.328" width="20" y="144.615" x="150.592" stroke="#000" fill="#ffffff" style="stroke-width: 3px;"/>
+    <rect id="svg_11" height="75.328" width="20" y="144.026" x="194.939" stroke="#000" fill="#ffffff" style="stroke-width: 3px;"/>
+    <rect id="svg_12" height="75.328" width="20" y="144.615" x="237.548" stroke="#000" fill="#ffffff" style="stroke-width: 3px;"/>
+    <rect id="svg_13" height="75.328" width="20" y="144.615" x="282.765" stroke="#000" fill="#ffffff" style="stroke-width: 3px;"/>
+    <rect id="svg_14" height="75.328" width="20" y="144.026" x="327.113" stroke="#000" fill="#ffffff" style="stroke-width: 3px;"/>
+    <rect id="svg_15" height="75.328" width="20" y="144.369" x="370.086" stroke="#000" fill="#ffffff" style="stroke-width: 3px;"/>
+    <rect id="svg_16" height="75.328" width="20" y="144.369" x="415.303" stroke="#000" fill="#ffffff" style="stroke-width: 3px;"/>
+    <rect id="svg_17" height="75.328" width="20" y="144.369" x="459.651" stroke="#000" fill="#ffffff" style="stroke-width: 3px;"/>
+    <rect id="svg_18" height="75.328" width="20" y="144.369" x="502.26" stroke="#000" fill="#ffffff" style="stroke-width: 3px;"/>
+    <rect id="svg_19" height="75.328" width="20" y="144.369" x="545.738" stroke="#000" fill="#ffffff" style="stroke-width: 3px;"/>
+    <rect id="svg_20" height="75.328" width="20" y="144.369" x="589.216" stroke="#000" fill="#ffffff" style="stroke-width: 3px;"/>
+    <rect id="svg_21" height="75.328" width="20" y="144.369" x="632.695" stroke="#000" fill="#ffffff" style="stroke-width: 3px;"/>
+    <rect id="svg_22" height="75.328" width="20" y="144.369" x="676.173" stroke="#000" fill="#ffffff" style="stroke-width: 3px;"/>
+    <rect id="svg_24" height="75.328" width="20" y="369.423" x="105.374" stroke="#000" fill="#ffffff" style="stroke-width: 3px;"/>
+    <rect id="svg_25" height="75.328" width="20" y="369.423" x="150.592" stroke="#000" fill="#ffffff" style="stroke-width: 3px;"/>
+    <rect id="svg_26" height="75.328" width="20" y="368.835" x="194.939" stroke="#000" fill="#ffffff" style="stroke-width: 3px;"/>
+    <rect id="svg_27" height="75.328" width="20" y="369.423" x="237.548" stroke="#000" fill="#ffffff" style="stroke-width: 3px;"/>
+    <rect id="svg_28" height="75.328" width="20" y="369.423" x="282.765" stroke="#000" fill="#ffffff" style="stroke-width: 3px;"/>
+    <rect id="svg_29" height="75.328" width="20" y="368.835" x="327.113" stroke="#000" fill="#ffffff" style="stroke-width: 3px;"/>
+    <rect id="svg_30" height="75.328" width="20" y="369.177" x="370.086" stroke="#000" fill="#ffffff" style="stroke-width: 3px;"/>
+    <rect id="svg_31" height="75.328" width="20" y="369.177" x="415.303" stroke="#000" fill="#ffffff" style="stroke-width: 3px;"/>
+    <rect id="svg_32" height="75.328" width="20" y="369.177" x="459.651" stroke="#000" fill="#ffffff" style="stroke-width: 3px;"/>
+    <rect id="svg_33" height="75.328" width="20" y="369.177" x="502.26" stroke="#000" fill="#ffffff" style="stroke-width: 3px;"/>
+    <rect id="svg_34" height="75.328" width="20" y="369.177" x="545.738" stroke="#000" fill="#ffffff" style="stroke-width: 3px;"/>
+    <rect id="svg_35" height="75.328" width="20" y="369.177" x="589.216" stroke="#000" fill="#ffffff" style="stroke-width: 3px;"/>
+    <rect id="svg_36" height="75.328" width="20" y="369.177" x="632.695" stroke="#000" fill="#ffffff" style="stroke-width: 3px;"/>
+    <rect id="svg_37" height="75.328" width="20" y="369.177" x="676.173" stroke="#000" fill="#ffffff" style="stroke-width: 3px;"/>
+    <rect rx="25" id="svg_1" height="199" width="661.99998" y="194.60001" x="70.60003" stroke="#000" fill="#ffffff" style="stroke-width: 6px;"/>
+    <rect id="svg_2" height="0" width="50" y="296.60001" x="445.60001" stroke="#000" fill="#ffffff"/>
+    <g transform="matrix(1, 0, 0, 1, 0, 6)">
+      <text transform="matrix(5.173701, 0, 0, 3.94703, -738.67213, -890.220594)" id="svg_38" style="font-family: &quot;Liberation Sans&quot;; font-size: 28px; stroke: rgb(0, 0, 0); stroke-width: 0px; white-space: pre;" x="189.418" y="300.765">6502</text>
+      <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 42px; white-space: pre;" x="242.216" y="334.443" transform="matrix(1.869184, 0, 0, 1.700762, -205.530383, -207.813083)">CODING</text>
+    </g>
+    <ellipse style="stroke: rgb(0, 0, 0); fill: rgb(255, 255, 255);" cx="160.651" cy="294.568" rx="24.196" ry="23.922"/>
+    <ellipse style="stroke: rgb(0, 0, 0); fill: rgb(255, 255, 255); stroke-width: 1; transform-box: fill-box; transform-origin: 50.9372% 50.7365%;" cx="639.558" cy="294.523" rx="24.196" ry="23.922"/>
+  </g>
+</svg>
